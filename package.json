@@ -1,0 +1,16 @@
+{
+    "name": "SAPUI5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "BlueMagic",
+    "devDependencies": {
+      "del": "^2.0.2",
+      "gulp": "^3.9.0",
+      "gulp-connect": "^2.2.0",
+      "gulp-ui5-preload": "^1.2.0",
+      "proxy-middleware": "^0.15.0",
+      "run-sequence": "^1.1.4",
+      "url": "^0.11.0"
+    }
+  }
